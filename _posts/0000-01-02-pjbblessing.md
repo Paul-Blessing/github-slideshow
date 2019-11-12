@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A Little Learning is a Dangerous Thing!
 Use the left arrow to go back!
